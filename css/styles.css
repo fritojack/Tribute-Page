@@ -3,7 +3,11 @@ html {
 }
 
 .pretty-border {
-    border: medium solid blue;
+    border: medium solid black;
     border-radius: 50%;
+}
+
+.quotes {
+    font-family: Monospace;
 }
     
