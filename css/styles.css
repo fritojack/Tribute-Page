@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box;
+}
+
+.pretty-border {
+    border: medium solid blue;
+    border-radius: 50%;
+}
+    
